@@ -12,15 +12,16 @@ Este projeto é uma recriação do clássico **Jogo da Cobrinha**. O objetivo é
 ---
 
 ## Funcionalidades
-- Controle simples da cobrinha usando as setas do teclado.
-- Geração aleatória de comida no mapa.
-- Incremento do tamanho da cobrinha e da pontuação ao comer a comida.
-- Detecção de colisões com paredes ou corpo da cobra.
+1. Controle simples da cobrinha usando as setas do teclado.
+2. Geração aleatória de comida no mapa.
+3. Incremento do tamanho da cobrinha e da pontuação ao comer a comida.
+4. Detecção de colisões com paredes ou corpo da cobra.
 
 ---
 
 ## Tecnologias utilizadas
-1. HTML
-2. CSS
-3. JavaScript
-4. Git
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **Markdown**
+- **Git**
